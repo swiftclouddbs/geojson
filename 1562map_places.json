@@ -1,0 +1,709 @@
+{
+  "places": [
+    {
+      "name": "Guanahani",
+      "latitude": 25.5654,
+      "longitude": -78.9958
+    },
+    {
+      "name": "Bahamas",
+      "latitude": 25.0343,
+      "longitude": -78.0323
+    },
+    {
+      "name": "America",
+      "latitude": 37.0902,
+      "longitude": -95.7129
+    },
+    {
+      "name": "Canada",
+      "latitude": 56.1304,
+      "longitude": -106.3468
+    },
+    {
+      "name": "Tierra del Fuego",
+      "latitude": -54.8129,
+      "longitude": -68.3074
+    },
+    {
+      "name": "Mediterranean Sea",
+      "latitude": 35.0000,
+      "longitude": 18.0000
+    },
+    {
+      "name": "Atlantic Ocean",
+      "latitude": 25.7617,
+      "longitude": -37.9238
+    },
+    {
+      "name": "Antwerp",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Library of Congress",
+      "latitude": 38.8904,
+      "longitude": -77.0319
+    },
+    {
+      "name": "Washington, D.C.",
+      "latitude": 38.8904,
+      "longitude": -77.0319
+    },
+    {
+      "name": "British Library",
+      "latitude": 51.5074,
+      "longitude": 0.1278
+    },
+    {
+      "name": "London",
+      "latitude": 51.5074,
+      "longitude": 0.1278
+    },
+    {
+      "name": "Greenwich",
+      "latitude": 51.4769,
+      "longitude": 0.0000
+    },
+    {
+      "name": "Equator",
+      "latitude": 0.0000,
+      "longitude": 0.0000
+    },
+    {
+      "name": "Tropic of Cancer",
+      "latitude": 23.4368,
+      "longitude": 0.0000
+    },
+    {
+      "name": "Tropic of Capricorn",
+      "latitude": -23.4368,
+      "longitude": 0.0000
+    },
+    {
+      "name": "Baja California",
+      "latitude": 28.0000,
+      "longitude": -114.0000
+    },
+    {
+      "name": "Amazon River",
+      "latitude": -3.7791,
+      "longitude": -60.1842
+    },
+    {
+      "name": "Lake Titicaca",
+      "latitude": -15.8263,
+      "longitude": -69.1981
+    },
+    {
+      "name": "Potosí",
+      "latitude": -19.5732,
+      "longitude": -65.7509
+    },
+    {
+      "name": "Mexico City",
+      "latitude": 19.4326,
+      "longitude": -99.1332
+    },
+    {
+      "name": "Florida",
+      "latitude": 27.7663,
+      "longitude": -81.6868
+    },
+    {
+      "name": "Argentina",
+      "latitude": -34.6076,
+      "longitude": -64.0000
+    },
+    {
+      "name": "India",
+      "latitude": 20.5937,
+      "longitude": 78.9629
+    },
+    {
+      "name": "Eastern Atlantic",
+      "latitude": 15.0000,
+      "longitude": -20.0000
+    },
+    {
+      "name": "United States",
+      "latitude": 37.0902,
+      "longitude": -95.7129
+    },
+    {
+      "name": "Spanish Habsburg Empire",
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    },
+    {
+      "name": "Netherlands",
+      "latitude": 52.1326,
+      "longitude": 5.2913
+    },
+    {
+      "name": "Castile",
+      "latitude": 41.6500,
+      "longitude": -4.0200
+    },
+    {
+      "name": "Berkeley",
+      "latitude": 37.8719,
+      "longitude": -122.2605
+    },
+    {
+      "name": "Paris",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "Brésil",
+      "latitude": -10.0000,
+      "longitude": -55.0000
+    },
+    {
+      "name": "Guyane Française",
+      "latitude": 4.0000,
+      "longitude": -53.0000
+    },
+    {
+      "name": "Barcelona",
+      "latitude": 41.3851,
+      "longitude": 2.1734
+    },
+    {
+      "name": "Perú",
+      "latitude": -9.1899,
+      "longitude": -75.0152
+    },
+    {
+      "name": "Bolivia",
+      "latitude": -16.5000,
+      "longitude": -66.0000
+    },
+    {
+      "name": "República Argentina",
+      "latitude": -34.6076,
+      "longitude": -64.0000
+    },
+    {
+      "name": "Munich",
+      "latitude": 48.1372,
+      "longitude": 11.5761
+    },
+    {
+      "name": "Gotha",
+      "latitude": 50.9500,
+      "longitude": 10.7000
+    },
+    {
+      "name": "Germany",
+      "latitude": 51.0000,
+      "longitude": 10.0000
+    },
+    {
+      "name": "Seville",
+      "latitude": 37.3891,
+      "longitude": -5.9844
+    },
+    {
+      "name": "Extremadura",
+      "latitude": 39.0000,
+      "longitude": -6.0000
+    },
+    {
+      "name": "Monastery of Yuste",
+      "latitude": 40.0940,
+      "longitude": -5.8014
+    },
+    {
+      "name": "Yuste",
+      "latitude": 40.0940,
+      "longitude": -5.8014
+    },
+    {
+      "name": "Cateau Cambrésis",
+      "latitude": 50.2169,
+      "longitude": 3.6505
+    },
+    {
+      "name": "Valois",
+      "latitude": 49.1938,
+      "longitude": 3.0636
+    },
+    {
+      "name": "France",
+      "latitude": 46.2276,
+      "longitude": 2.2137
+    },
+    {
+      "name": "Henry II",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "Philip II",
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    },
+    {
+      "name": "Guanabara Bay",
+      "latitude": -22.9135,
+      "longitude": -43.1787
+    },
+    {
+      "name": "Brazil",
+      "latitude": -10.0000,
+      "longitude": -55.0000
+    },
+    {
+      "name": "Florida Keys",
+      "latitude": 24.9019,
+      "longitude": -80.3062
+    },
+    {
+      "name": "South Carolina",
+      "latitude": 33.8569,
+      "longitude": -80.9450
+    },
+    {
+      "name": "Saint Augustine",
+      "latitude": 29.8948,
+      "longitude": -81.3149
+    },
+    {
+      "name": "Gulf of Mexico",
+      "latitude": 25.7617,
+      "longitude": -90.0000
+    },
+    {
+      "name": "West Indian",
+      "latitude": 18.0000,
+      "longitude": -72.0000
+    },
+    {
+      "name": "Caribbean",
+      "latitude": 18.0000,
+      "longitude": -72.0000
+    },
+    {
+      "name": "Straits of Florida",
+      "latitude": 25.0000,
+      "longitude": -80.0000
+    },
+    {
+      "name": "Cuba",
+      "latitude": 21.5217,
+      "longitude": -77.7812
+    },
+    {
+      "name": "Cape Bojador",
+      "latitude": 26.1365,
+      "longitude": -14.4137
+    },
+    {
+      "name": "Canaries",
+      "latitude": 28.0000,
+      "longitude": -15.0000
+    },
+    {
+      "name": "Ferro",
+      "latitude": 27.8206,
+      "longitude": -17.9898
+    },
+    {
+      "name": "Pico",
+      "latitude": 38.4713,
+      "longitude": -28.0338
+    },
+    {
+      "name": "Azores",
+      "latitude": 38.7229,
+      "longitude": -27.9813
+    },
+    {
+      "name": "Cape Verde Islands",
+      "latitude": 16.0000,
+      "longitude": -24.0000
+    },
+    {
+      "name": "Rome",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Nicolas de Villegaignon",
+      "latitude": -22.9135,
+      "longitude": -43.1787
+    },
+    {
+      "name": "La France Antarctique",
+      "latitude": -22.9135,
+      "longitude": -43.1787
+    },
+    {
+      "name": "Jean Ribaut",
+      "latitude": 29.8948,
+      "longitude": -81.3149
+    },
+    {
+      "name": "René de Laudonniére",
+      "latitude": 29.8948,
+      "longitude": -81.3149
+    },
+    {
+      "name": "Leiden",
+      "latitude": 52.1552,
+      "longitude": 4.4994
+    },
+    {
+      "name": "Piedmont",
+      "latitude": 45.0000,
+      "longitude": 7.0000
+    },
+    {
+      "name": "Sicily",
+      "latitude": 38.0000,
+      "longitude": 13.0000
+    },
+    {
+      "name": "Turkey",
+      "latitude": 38.9637,
+      "longitude": 35.2433
+    },
+    {
+      "name": "Persia",
+      "latitude": 32.0000,
+      "longitude": 53.0000
+    },
+    {
+      "name": "Castaldo",
+      "latitude": 40.8375,
+      "longitude": 14.2528
+    },
+    {
+      "name": "Siena",
+      "latitude": 43.3183,
+      "longitude": 11.3304
+    },
+    {
+      "name": "Ostia",
+      "latitude": 41.6985,
+      "longitude": 12.4010
+    },
+    {
+      "name": "Saint -Quentin",
+      "latitude": 49.8424,
+      "longitude": 3.2850
+    },
+    {
+      "name": "Ypres",
+      "latitude": 50.8409,
+      "longitude": 2.8626
+    },
+    {
+      "name": "Hableneuf",
+      "latitude": 48.3938,
+      "longitude": 7.7470
+    },
+    {
+      "name": "Malta",
+      "latitude": 35.9375,
+      "longitude": 14.5001
+    },
+    {
+      "name": "Bourgogne",
+      "latitude": 47.0000,
+      "longitude": 4.0000
+    },
+    {
+      "name": "Ferdinand de Launoy",
+      "latitude": 50.6366,
+      "longitude": 3.0636
+    },
+    {
+      "name": "Holy Land",
+      "latitude": 31.7683,
+      "longitude": 35.2137
+    },
+    {
+      "name": "Petru Laicksteen",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Theatrum Orbis Terrarum",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Plantin Press",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Catalogus Auctorum Tabularum Geographicarum",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Nederlansche Steden",
+      "latitude": 52.1326,
+      "longitude": 5.2913
+    },
+    {
+      "name": "Civitates Orbis Terrarum",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Cosmographia",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Antoine Perrenot",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Cardinal de Granvelle",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Brussels",
+      "latitude": 50.8503,
+      "longitude": 4.3517
+    },
+    {
+      "name": "Maria and Maximillian II",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    {
+      "name": "Austria",
+      "latitude": 47.5000,
+      "longitude": 14.5000
+    },
+    {
+      "name": "Divi Caroli V imp. opt. max. victoriae",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Charles V",
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    },
+    {
+      "name": "Holy Roman Emperor",
+      "latitude": 48.1372,
+      "longitude": 11.5761
+    },
+    {
+      "name": "Pompa funebris",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Jan Wellens or Willems",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Mathias Cock",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Guild of St. Luke",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Antonio Salamanca",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Antonio Lafrery",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Aux Quatre Vents",
+      "latitude": 51.2218,
+      "longitude": 4.4035
+    },
+    {
+      "name": "Low Countries",
+      "latitude": 51.0000,
+      "longitude": 4.0000
+    },
+    {
+      "name": "Dutch masters",
+      "latitude": 52.1326,
+      "longitude": 5.2913
+    },
+    {
+      "name": "Alonso de Chaves",
+      "latitude": 37.3891,
+      "longitude": -5.9844
+    },
+    {
+      "name": "Francisco Falero",
+      "latitude": 37.3891,
+      "longitude": -5.9844
+    },
+    {
+      "name": "Jerónimo de Chaves",
+      "latitude": 37.3891,
+      "longitude": -5.9844
+    },
+    {
+      "name": "Sancho Gutiérrez",
+      "latitude": 37.3891,
+      "longitude": -5.9844
+    },
+    {
+      "name": "Alonso de Santa Cruz",
+      "latitude": 37.3891,
+      "longitude": -5.9844
+    },
+    {
+      "name": "Archivo General de Indias",
+      "latitude": 37.3891,
+      "longitude": -5.9844
+    },
+    {
+      "name": "Casa de la Contratación",
+      "latitude": 37.3891,
+      "longitude": -5.9844
+    },
+    {
+      "name": "Pilot Major",
+      "latitude": 37.3891,
+      "longitude": -5.9844
+    },
+    {
+      "name": "Diego Gutiérrez",
+      "latitude": 37.3891,
+      "longitude": -5.9844
+    },
+    {
+      "name": "Americus Vespucius",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Pope Alexander",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Pope Martin V",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Pope Nicholas V",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Romanus Pontifex",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Treaty of Tordesillas",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Papal Bull",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Christopher Columbus",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Calicute",
+      "latitude": 11.0168,
+      "longitude": 75.7804
+    },
+    {
+      "name": "La Flota De Portugal",
+      "latitude": 38.7229,
+      "longitude": -27.9813
+    },
+    {
+      "name": "Margarita de Parma",
+      "latitude": 50.8503,
+      "longitude": 4.3517
+    },
+    {
+      "name": "Philip",
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    },
+    {
+      "name": "King of Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    },
+    {
+      "name": "Regent of the Netherlands",
+      "latitude": 52.1326,
+      "longitude": 5.2913
+    },
+    {
+      "name": "Treaty of Cateau Cambrésis",
+      "latitude": 50.2169,
+      "longitude": 3.6505
+    },
+    {
+      "name": "Peace of Cateau Cambrésis",
+      "latitude": 50.2169,
+      "longitude": 3.6505
+    },
+    {
+      "name": "Elizabeth of Valois",
+      "latitude": 49.1938,
+      "longitude": 3.0636
+    },
+    {
+      "name": "Henry II",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "King of France",
+      "latitude": 46.2276,
+      "longitude": 2.2137
+    },
+    {
+      "name": "Peace of Westphalia",
+      "latitude": 52.0000,
+      "longitude": 7.0000
+    },
+    {
+      "name": "England",
+      "latitude": 52.0000,
+      "longitude": 0.0000
+    },
+    {
+      "name": "Portugal",
+      "latitude": 39.0000,
+      "longitude": -8.0000
+    },
+    {
+      "name": "Prime Meridian",
+      "latitude": 0.0000,
+      "longitude": 0.0000
+    }
+  ]
+}
